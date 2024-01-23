@@ -1,1 +1,1 @@
-# hello-world
+Exercício curso Cubos Academy
